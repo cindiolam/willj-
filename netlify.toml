@@ -1,0 +1,3 @@
+# Static site. Publish this folder as-is. No build step.
+[build]
+  publish = "."
